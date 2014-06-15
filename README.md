@@ -7,6 +7,8 @@ Various Color Themes for Alfred v2
 
 ![alt tag](https://raw.githubusercontent.com/joeyd/Alfred-Color-Themes/master/red.png)
 
+![alt tag](https://raw.githubusercontent.com/joeyd/Alfred-Color-Themes/master/purple.png)
+
 ![alt tag](https://raw.githubusercontent.com/joeyd/Alfred-Color-Themes/master/blue.png)
 
 ![alt tag](https://raw.githubusercontent.com/joeyd/Alfred-Color-Themes/master/green.png)
