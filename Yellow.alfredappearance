@@ -17,7 +17,7 @@
 	<key>credits</key>
 	<string>@joeydurham</string>
 	<key>imageStyle</key>
-	<integer>8</integer>
+	<integer>3</integer>
 	<key>name</key>
 	<string>Yellow</string>
 	<key>resultPaddingSize</key>
@@ -35,12 +35,12 @@
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAg0jh+j6G
+	ZmZmAAAAgwAAAD+G
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAg83MTD6G
+	ZmZmAAAAg3sULj6G
 	</data>
 	<key>resultSubtextFont</key>
 	<string>Helvetica</string>
@@ -58,7 +58,7 @@
 	<key>scrollbarColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg+mTfj+D0id9PwGDexSuPoY=
+	ZmZmAAAAgwrXoz2G
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
@@ -89,7 +89,7 @@
 	<key>separatorColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg3h5Sz+DC/c5P4MaD2k+AYY=
+	ZmZmAAAAg83MTD2G
 	</data>
 	<key>shortcutColor</key>
 	<data>
@@ -102,8 +102,8 @@
 	<integer>0</integer>
 	<key>shortcutSelectedColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBgwAAAD+G
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAAAAgwAAAD+G
 	</data>
 	<key>uid</key>
 	<string>alfred.theme.custom.F285CFE3-344E-469A-8363-45E0A27BFEC8</string>
